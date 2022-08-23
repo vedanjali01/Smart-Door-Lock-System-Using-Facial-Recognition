@@ -1,2 +1,3 @@
 # Smart-Door-Lock-System-Using-Facial-Recognition
-Made a cost-effective smart door lock system using facial recognition which can be used to provide touch less access system and increase the security of a building.
+This project is a smart IoT based face recognition system which firstly recognizes the face of the person near the door and then compares with the already uploaded faces stored in the data base of the system. If a person is detected then the door would open and welcomes them. If an unknown person enters, the owner would be alerted by message.
+Our aim is to build a cost-effective smart door lock system using facial recognition which can be used to provide touch less access systems and increase the security of the building. With COVID-19 protocols being enforced in every public place today, this model can be used in verification of identity.
